@@ -1,2 +1,5 @@
 telethon
 pyaes
+pytesseract
+pillow
+sympy
